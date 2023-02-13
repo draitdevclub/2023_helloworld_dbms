@@ -1,0 +1,19 @@
+[
+  {
+    "code": "IN",
+    "name": "India",
+    "isd_code": "+91",
+    "is_live": true,
+    "creation_date": {
+      "$date": {
+        "$numberLong": "1676246400000"
+      }
+    },
+    "updation_date": {
+      "$date": {
+        "$numberLong": "1676246400000"
+      }
+    },
+    "operator_id": "op"
+  }
+]
